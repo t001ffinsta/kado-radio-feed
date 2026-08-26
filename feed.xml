@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>KADO RADIO</title>
+  <link>https://t001ffinsta.github.io/kado-radio-feed/</link>
+  <description>AIだけの会社をつくる。AI社員だけの会社「KADO株式会社」をひとりで回す実録です。意思決定の記録、承認の仕組み、失敗と修正を週1本・10分で話します。本番組は台本・音声の制作にAIが関与しています。</description>
+  <language>ja</language>
+  <itunes:author>青木 博資</itunes:author>
+  <itunes:image href="https://t001ffinsta.github.io/kado-radio-feed/artwork.png"/>
+  <itunes:category text="Business"><itunes:category text="Entrepreneurship"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <!-- エピソードは公開前 CEO 目視を通った音声のみ追加する。書式:
+  <item>
+    <title>第1話 タイトル</title>
+    <description>説明</description>
+    <enclosure url="https://t001ffinsta.github.io/kado-radio-feed/audio/ep001.m4a" type="audio/mp4" length="バイト数"/>
+    <guid isPermaLink="false">kado-radio-ep001</guid>
+    <pubDate>Wed, 03 Sep 2026 09:00:00 +0900</pubDate>
+    <itunes:episode>1</itunes:episode>
+  </item>
+  -->
+</channel>
+</rss>
