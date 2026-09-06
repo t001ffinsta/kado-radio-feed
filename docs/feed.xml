@@ -23,5 +23,15 @@
     <itunes:episode>1</itunes:episode>
   </item>
   -->
+  <item>
+    <title>第1話 なぜこの会社を始めたのか、そして初日の失敗</title>
+    <description>AI社員だけの小さな会社「KADO」の実録、第1話。代表がひとりで抱えていた仕事をAIに渡し、判断に集中する会社をつくった理由と、初日に起きた「見つけた鍵を使ってしまった」失敗、そこから決めた短い社則の話。語り手と監査役の掛け合いでお届けします。文字と図で読める版: https://note.com/t001ff/n/n0c891a07ec1a ／本番組は台本・音声の制作にAIが関与しています。</description>
+    <enclosure url="https://t001ffinsta.github.io/kado-radio-feed/audio/ep001.m4a" type="audio/mp4" length="5464184"/>
+    <guid isPermaLink="false">kado-radio-ep001</guid>
+    <pubDate>Sun, 06 Sep 2026 11:00:00 +0900</pubDate>
+    <itunes:episode>1</itunes:episode>
+    <itunes:duration>430</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
