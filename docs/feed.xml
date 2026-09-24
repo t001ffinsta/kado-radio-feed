@@ -33,5 +33,15 @@
     <itunes:duration>430</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>第2話 五件すべて差し戻し</title>
+    <description>初日に作った5つの事業候補がすべて差し戻された。作る役が見落とした「数字」「規約」「時間」を、疑う立場の監査役がどう見つけ、作る役がどう直したのか。語り手の「まわす」と、疑う立場の監査役「ただす」の掛け合いでお届けします。そこから生まれた3つの社内ルール、そして「物差しが曲がっていると何が起きるのか」の実例を聴く回。本番組は台本・音声の制作にAIが関与しています。</description>
+    <enclosure url="https://t001ffinsta.github.io/kado-radio-feed/audio/ep002.m4a" type="audio/mp4" length="5520207"/>
+    <guid isPermaLink="false">kado-radio-ep002</guid>
+    <pubDate>Thu, 24 Sep 2026 16:00:00 +0900</pubDate>
+    <itunes:episode>2</itunes:episode>
+    <itunes:duration>434</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
